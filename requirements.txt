@@ -1,0 +1,18 @@
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.4
+xgboost>=2.0
+lightgbm>=4.0
+pyspark>=3.5
+pyarrow>=14
+joblib
+pyyaml
+fastapi
+uvicorn
+streamlit
+matplotlib
+pytest
+# production extras:
+# apache-airflow>=2.8
+# sagemaker>=2.200
+# boto3

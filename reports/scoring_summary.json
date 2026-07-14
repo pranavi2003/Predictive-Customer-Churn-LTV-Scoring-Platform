@@ -1,0 +1,8 @@
+{
+  "customers_scored": 200000,
+  "full_population_auc": 0.9302,
+  "top_decile_lift": 3.07,
+  "top2_decile_churn_capture": 0.568,
+  "total_revenue_at_risk": 19003522.82,
+  "critical_tier_customers": 29066
+}
